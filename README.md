@@ -9,7 +9,7 @@
 ## In Progress
 - **PharmaGaurd AI**
   A safety-focused AI system made for the Pharmaceutical industry
-- 👉 https://github.com/adamvl7/PharmaGuard-AI
+  👉 https://github.com/adamvl7/PharmaGuard-AI
 
 ## 🔧 Featured Projects
 - **IT Ops Copilot**  
