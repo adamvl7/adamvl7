@@ -6,6 +6,10 @@
 
 ---
 
+## In Progress
+- **PharmaGaurd AI**
+- 👉 https://github.com/adamvl7/PharmaGuard-AI
+
 ## 🔧 Featured Projects
 - **IT Ops Copilot**  
   Backend automation platform built with FastAPI that simulates IT service ticket workflows  
