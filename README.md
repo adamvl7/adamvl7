@@ -1,7 +1,7 @@
 # Hi 👋, I'm Adam
 
 🎓 Computer Science / Engineering student  
-💻 Interested in backend, full-stack, and systems development  
+💻 Interested AI/ML, full-stack, and systems development  
 🚀 Actively building real-world projects and preparing for internships
 
 ---
@@ -48,5 +48,5 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/adamvl7
-- Portfolio: https://adamleportfolio-7b6f8.web.app./portfolio
+- Portfolio: https://adamle.vercel.app/
 
